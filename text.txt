@@ -1,0 +1,3 @@
+Advantages of GraphQl over RestApi:
+- Ability to nest any related data we need in a single request/query instead of making multiple requests
+- This gets the exact data and eliminated the issue of Underfetching and Overfetchig of data since you get to specify what you need
